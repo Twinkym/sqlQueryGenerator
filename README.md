@@ -43,8 +43,8 @@
 
 ## MAIN
 
-        +**Slider de Imágenes:** Navegación interactiva entre distintos gestores de bases de datos.
-        +**Descripción Dinámica:** Texto descriptivo del gestor mostrado en el Slider.
+        **Slider de Imágenes:** Navegación interactiva entre distintos gestores de bases de datos.
+        **Descripción Dinámica:** Texto descriptivo del gestor mostrado en el Slider.
 
 ## FOOTER
 
@@ -104,10 +104,10 @@
 
 ## Contacto
 
-        Creador: [David De La Puente Enriquez].
-        Correo Electronico: [ddelapuente@gmail.com]
-        LinkedIn: [linkedin.com/in/daviddelapuente/]
-        GitHub: [github.com/twinkym]
+        Creador: David De La Puente Enriquez.
+        Correo Electronico: [ddelapuenteenriquez@gmail.com](ddelapuenteenriquez@gmail.com)
+        LinkedIn: [linkedin.com/in/daviddelapuente/](https://linkedin.com/in/daviddelapuente/)
+        GitHub: [github.com/twinkym](https://github.com/twinkym)
 
 ## CAPTURAS DE PANTALLA
 
