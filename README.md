@@ -2,17 +2,19 @@
 
 ## descripción
 
-**sqlQueryGenerator** es una aplicaicón web que facilita la creación de consultas **SQL** de manera sencilla e intuitiva. La aplicación soporta múltiples gestores de bases de dabtos, tanto relacionales como norelacioinales, y ofrece una interfaz interactiva y moderna diseñada bajo la filosofia **mobile first.**
+        **sqlQueryGenerator**
+        es una aplicaicón web que facilita la creación de consultas **SQL** de manera sencilla e intuitiva. La aplicación soporta múltiples gestores de bases de dabtos, tanto relacionales como norelacioinales, y ofrece una interfaz interactiva y moderna diseñada bajo la filosofia **mobile first.**
 
 ## Tecnologías Utilizadas
 
 ### Frontend
 
-    React(modelo atómico de responsabilidad, diseño accesible y mobile-first).
+        **React:** 
+        modelo atómico de responsabilidad, diseño accesible y mobile-first.
 
 ### Backend
 
-    PHP(patron **MVC**).
+    PHP patron **MVC**.
 
 ### CSS Framework
 
@@ -31,20 +33,22 @@
 
 ### HEADER
 
-    Logo de la marca a la izquierda. 
-    Titulo centrado: **sqlQueryGenerator.**
-    Menú hamburguesa con las siguientes opciones:
-        Registro
-        Login
-        Documentación
-        Learn
-        About
-        Contacto
+        Logo de la marca a la izquierda. 
+        Titulo centrado: **sqlQueryGenerator.**
+        Menú hamburguesa con las siguientes opciones:
+                Registro
+                Login
+                Documentación
+                Learn
+                About
+                Contacto
 
 ## MAIN
 
-        **Slider de Imágenes:** Navegación interactiva entre distintos gestores de bases de datos.
-        **Descripción Dinámica:** Texto descriptivo del gestor mostrado en el Slider.
+        __Slider de Imágenes:__
+        Navegación interactiva entre distintos gestores de bases de datos.
+        **Descripción Dinámica:** 
+        Texto descriptivo del gestor mostrado en el Slider.
 
 ## FOOTER
 
@@ -56,7 +60,7 @@
 
 ### Prerrequisitos
 
-        Node.js y npm (para gestionar dependencias de React).
+        Node.js y npm > para gestionar dependencias de React.
         Servidor Apache o Nginx con soporte PHP.
         Base de datos MySQL u otro gestor compatible.
 
@@ -68,8 +72,8 @@
         `cd sqlQueryGenerator/frontend`
         `npm install`
     3. Configure el backend.
-        + Crea una BBDD MySQL.
-        + Edita el archivo **config.php** en el directorio **backend** para añadir tus credenciales de BBDD.
+        Crea una BBDD MySQL.
+        Edita el archivo **config.php** en el directorio **backend** para añadir tus credenciales de BBDD.
 
 ## Inicia la aplicación
 
