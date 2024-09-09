@@ -66,14 +66,14 @@
 
 ## Pasos para la instalación
 
-    1. Clona el repositorio.
-        `git clone https://github.com/twinkm/sqlQueryGenerator.git`
-    2. Instala las dependencias del frontend.
-        `cd sqlQueryGenerator/frontend`
-        `npm install`
-    3. Configure el backend.
-        Crea una BBDD MySQL.
-        Edita el archivo **config.php** en el directorio **backend** para añadir tus credenciales de BBDD.
+        1. Clona el repositorio.
+                `git clone https://github.com/twinkm/sqlQueryGenerator.git`
+        2. Instala las dependencias del frontend.
+                `cd sqlQueryGenerator/frontend`
+                `npm install`
+        3. Configure el backend.
+                Crea una BBDD MySQL.
+                Edita el archivo **config.php** en el directorio **backend** para añadir tus credenciales de BBDD.
 
 ## Inicia la aplicación
 
@@ -93,14 +93,14 @@
 
         **Si deseas contribuir al proyecto, por favor sigue las siguientes pautas:**
 
-        1. Haz fork del repositorio.
-        2. Crea una nueva rama:
-        `git checkout -b feature/nueva-funcionalidad`.
-        3. Realize cambios y haz commit:
-        `git commit -am 'Añadir nueva funcionalidad`.
-        4. Haz push a la rama:
-        `git push origin feauture/nueva-funcionalidad`.
-        5. abre pull request.
+                1. Haz fork del repositorio.
+                2. Crea una nueva rama:
+                `git checkout -b feature/nueva-funcionalidad`.
+                3. Realize cambios y haz commit:
+                `git commit -am 'Añadir nueva funcionalidad`.
+                4. Haz push a la rama:
+                `git push origin feauture/nueva-funcionalidad`.
+                5. abre pull request.
 
 ## Licencia
 
@@ -119,4 +119,6 @@
 
 ## VIDEO DEMOSTRACION
 
-![Video demostración de sentencias SQL explicado a mi compi](https://youtu.be/hO0FF6_6Vc0?si=leK86GB77ZgGXLK3)
+[Video demostración de sentencias SQL explicado a mi compi][def]
+
+[def]: https://youtu.be/hO0FF6_6Vc0?si=leK86GB77ZgGXLK3
