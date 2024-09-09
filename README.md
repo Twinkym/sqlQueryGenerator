@@ -115,4 +115,4 @@
 
 ## VIDEO DEMOSTRACION
 
-![Video demostración de sentencias SQL explicado a mi compi](https://youtube.com/)
+![Video demostración de sentencias SQL explicado a mi compi](https://youtu.be/hO0FF6_6Vc0?si=leK86GB77ZgGXLK3)
